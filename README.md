@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Aira 👋
 
-- 🌱 Sou estudante do programa de formação FullStack RecodePro 2023
-- 📝 Estudando: Java, Spring e MySQL
+- 🌱 Sou estudante de Engenharia de Software
+- 📝 Estudando: Java, Spring, MySQL e React
 - 😄 Pronomes: ela/dela
 
 <div style="display: inline_block">
