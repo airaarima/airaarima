@@ -4,7 +4,7 @@
 
 🛠️ No momento, estou me dedicando ao estudo de Java, C#, NextJs e TypeScript.
 
-Vamos nos conectar e trocar experiências!
+👩‍💻 Vamos nos conectar e trocar experiências!
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/airaarima/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
